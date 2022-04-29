@@ -1,4 +1,4 @@
 # Next-Word-Prediction-NLP
 
 
-#### refer: https://towardsdatascience.com/next-word-prediction-with-nlp-and-deep-learning-48b9fe0a17bf
+## Dataset :  https://drive.google.com/file/d/1GeUzNVqiixXHnTl8oNiQ2W3CynX_lsu2/view
